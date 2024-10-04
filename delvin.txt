@@ -1,0 +1,27 @@
+1.I am first
+2.I am second
+3.I am third :)
+
+
+{
+
+1. Hi\
+2. I am working\
+3. Still working, iguess\
+4. Almost dome, its a lie\
+5. Getting close\
+6. I am not done}
+
+1. I can not wait to eat pizza.
+2. Summer is always the best season.
+3. I hate cold dry weather.
+4. Take me to beach.
+5. I need to swim in the ocean.
+
+{ 1) My name is Ahmed Bilal\
+2) I am doing my Masters in Business Analytics from Gies\
+3) I am originally from Lahore, Pakistan\
+4) I like playing cricket \
+5) I like to binge watch seasons on Netflix\
+\
+}
