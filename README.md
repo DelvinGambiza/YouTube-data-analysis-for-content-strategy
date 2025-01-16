@@ -32,12 +32,19 @@ Correlation Analysis
 Discovered that likes, dislikes, and comment counts have a strong correlation with views, while tag count, title length, and description length have minimal effects.
 
 *Tools and Technologies*
+
 	•	Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, WordCloud
+ 
 	•	Visualization: Tableau 
+ 
 *Notable Visualizations*
+
 	•	Category-wise average views and engagement metrics
+ 
 	•	Regression plots showcasing the effect of metadata on views
+ 
 	•	Correlation heatmaps of key variables
+ 
 	•	Tableau dashboards for interactive exploration
 
 *Conclusion*
@@ -45,7 +52,11 @@ Discovered that likes, dislikes, and comment counts have a strong correlation wi
 This project provides actionable insights into YouTube video performance, emphasizing the importance of likes, dislikes, and comments as key drivers of engagement. The analysis also highlights the limited influence of metadata elements like title length and tag count on viewership.
 
 *Repository Contents*
+
 	•	Jupyter Notebook: Detailed Python-based analysis
+ 
 	•	Tableau Workbook: Interactive visualizations
+ 
 	•	Dataset: In data.zip folder
+ 
 	•	README: Project documentation
