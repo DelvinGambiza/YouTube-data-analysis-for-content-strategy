@@ -12,12 +12,19 @@ Key Objectives
  Highlights
 
 Impact of Category and Channel on Views
+
 Analyzed the average views, likes, dislikes, and comments across categories. Observed that genres like Comedy tend to attract higher views.
+
 Effect of Title, Description, and Tags
+
 Conducted regression analysis to study the effects of title length, description length, and tag count. Found a slight positive impact of description length and tag count on views.
+
 Time Until Trending
+
 Explored the relationship between the time it takes to trend and viewership. Identified a weak positive correlation, suggesting other factors are more influential.
+
 Correlation Analysis
+
 Discovered that likes, dislikes, and comment counts have a strong correlation with views, while tag count, title length, and description length have minimal effects.
 
 Tools and Technologies
