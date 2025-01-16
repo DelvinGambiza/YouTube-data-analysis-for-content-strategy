@@ -1,15 +1,19 @@
 # Youtube data analysis for content creation strategy
-Overview
+__Overview__
 
 This project explores trends in YouTube videos to identify key factors influencing engagement metrics such as views, likes, and dislikes. Using the USvideos dataset, the analysis reveals insights into how categories, metadata, and timing contribute to video performance. Python was used for preprocessing and statistical analysis, while Tableau facilitated interactive visualizations.
 
-Key Objectives
+*Key Objectives*
+
 	1.	Understand how video categories impact engagement (views, likes, and dislikes).
+ 
 	2.	Analyze the influence of metadata (e.g., title length, description length, tag  count) on performance.
+ 
 	3.	Investigate time-related trends, such as how quickly videos become trending.
+ 
 	4.	Visualize and interpret data for actionable insights using Tableau.
 
- Highlights
+ *Highlights*
 
 Impact of Category and Channel on Views
 
@@ -27,21 +31,21 @@ Correlation Analysis
 
 Discovered that likes, dislikes, and comment counts have a strong correlation with views, while tag count, title length, and description length have minimal effects.
 
-Tools and Technologies
+*Tools and Technologies*
 	•	Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, WordCloud
 	•	Visualization: Tableau 
-Notable Visualizations
+*Notable Visualizations*
 	•	Category-wise average views and engagement metrics
 	•	Regression plots showcasing the effect of metadata on views
 	•	Correlation heatmaps of key variables
 	•	Tableau dashboards for interactive exploration
 
-Conclusion
+*Conclusion*
 
 This project provides actionable insights into YouTube video performance, emphasizing the importance of likes, dislikes, and comments as key drivers of engagement. The analysis also highlights the limited influence of metadata elements like title length and tag count on viewership.
 
-Repository Contents
-	•	Jupyter Notebook: Detailed Python-based analysis.
-	•	Tableau Workbooks: Interactive visualizations.
-	•	Dataset: Preprocessed USvideos.csv for replication.
-	•	README: Project documentation.
+*Repository Contents*
+	•	Jupyter Notebook: Detailed Python-based analysis
+	•	Tableau Workbook: Interactive visualizations
+	•	Dataset: In data.zip folder
+	•	README: Project documentation
