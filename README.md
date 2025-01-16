@@ -59,3 +59,9 @@ This project demonstrates the importance of video categories and engagement metr
 
 ---
 
+## 👏 Acknowledgements:
+This project is a result of successful collaboration with:
+1. Mmesomachukwu Udensi
+2. Matteo Scarpa
+3. Jeongjun Jeon
+4. Flavien Foreste
