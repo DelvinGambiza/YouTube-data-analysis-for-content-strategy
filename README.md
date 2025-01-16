@@ -10,19 +10,19 @@ Key Objectives
 	4.	Visualize and interpret data for actionable insights using Tableau.
 
  Highlights
-	•	Subtopic 1: The Impact of Category and Channel on Views
+
+Impact of Category and Channel on Views
 Analyzed the average views, likes, dislikes, and comments across categories. Observed that genres like Comedy tend to attract higher views.
-	•	Subtopic 2: The Effect of Title, Description, and Tags
+Effect of Title, Description, and Tags
 Conducted regression analysis to study the effects of title length, description length, and tag count. Found a slight positive impact of description length and tag count on views.
-	•	Subtopic 3: Time Until Trending
+Time Until Trending
 Explored the relationship between the time it takes to trend and viewership. Identified a weak positive correlation, suggesting other factors are more influential.
-	•	Subtopic 4: Correlation Analysis
+Correlation Analysis
 Discovered that likes, dislikes, and comment counts have a strong correlation with views, while tag count, title length, and description length have minimal effects.
 
 Tools and Technologies
 	•	Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, WordCloud
-	•	Visualization: Tableau (interactive dashboards and data storytelling)
-
+	•	Visualization: Tableau 
 Notable Visualizations
 	•	Category-wise average views and engagement metrics
 	•	Regression plots showcasing the effect of metadata on views
